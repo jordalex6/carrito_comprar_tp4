@@ -1,0 +1,5 @@
+integrantes:
+
+Ortiz Jordan 	: 00993
+Hidalgo Martin	: 01182
+Barbieri Sante	: 01171
